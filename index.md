@@ -10,3 +10,7 @@ int main() {
     return 0;
 }
 ```
+- [x] Follow the instructions.
+- [x] Add an image
+- [x] Add a code example
+- [ ] Go to the next step
